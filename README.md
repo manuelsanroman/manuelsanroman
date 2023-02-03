@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Manuel San Román.
 
-Connect with me on LinkedIn:
-<p>
+<p> Connect with me on LinkedIn:
   <a href="https://www.linkedin.com/in/manuelsanromangarcia/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
