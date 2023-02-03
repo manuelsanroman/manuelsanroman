@@ -9,6 +9,7 @@ Connect with me on LinkedIn:
 </p>
 
 
+
 👨‍💻 I am a Computer Science and AI student at IE Univeristy (Madrid, Spain) 🚩,  motivated and passionate about computing and AI, and looking to pursue a career in the field. 
 
 🔧 Among my different programming skills we can highlight 💡 Python, C++, JavaScript, Deep Learning, Full stack (Php, Nodejs, React, SQL, NoSQL), R, HTML and CSS 💡.
