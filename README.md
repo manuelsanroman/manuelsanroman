@@ -13,7 +13,7 @@
 
 🔧 Among my different programming skills we can highlight 💡 Python, C++, JavaScript, Deep Learning, Full stack (Php, Nodejs, React, SQL, NoSQL), R, HTML and CSS 💡.
 
-🤖 I have just started a new adventure creating the IE Robotics Club with my colleagues Pablo Ortega Gayo and Diego Sanmartin. ☄️ Our aim is to bring the world of AI and robotics closer to the IE University community through the organization of events, workshops, talks and other activities.
+🤖 I am also one of the co-presidents of the IE Robotics and AI Club. ☄️ We aim to bring the world of AI and robotics closer to the IE University community through the organization of events, workshops, talks and other activities.
 
 ⏩ I am always willing to start new projects and discover more about this interesitng field of Computing and AI.
 
