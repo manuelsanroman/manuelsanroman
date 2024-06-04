@@ -11,7 +11,8 @@
 
 👨‍💻 I am a Computer Science and AI student at IE Univeristy (Madrid, Spain) 🚩,  motivated and passionate about computing and AI, and looking to pursue a career in the field. 
 
-🔧 Among my different programming skills we can highlight 💡 Python, C++, JavaScript, Deep Learning, Full stack (Php, Nodejs, React, SQL, NoSQL), R, HTML and CSS 💡.
+🔧 Among my different programming skills we can highlight 💡 Python, Docker, Git, C++, JavaScript, Deep Learning, Full stack (Php, Nodejs, React, SQL, NoSQL), R, HTML and 
+CSS 💡.
 
 🤖 I am also one of the co-presidents of the IE Robotics and AI Club. ☄️ We aim to bring the world of AI and robotics closer to the IE University community through the organization of events, workshops, talks and other activities.
 
