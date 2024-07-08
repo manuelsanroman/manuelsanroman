@@ -8,14 +8,10 @@
 </p>
 
 
+👨‍💻 I am a recent graduate in Computer Science & Artificial Intelligence from IE University (Madrid, Spain) 🚩, with a strong academic background and international experience, including an exchange program at Aalto University, Finland.
 
-👨‍💻 I am a Computer Science and AI student at IE Univeristy (Madrid, Spain) 🚩,  motivated and passionate about computing and AI, and looking to pursue a career in the field. 
+🔧 My programming skills include Python, Docker, Git, C++, JavaScript, Deep Learning, Full stack (Php, Nodejs, React, SQL, NoSQL), R, HTML, and CSS. I have hands-on experience in AI development, data architecture, and leadership roles. Currently, I am working as an AI Developer at CLIVI, a Gaming Innovation & AI company, where I research, develop, and maintain AI solutions for videogame users and companies.
 
-🔧 Among my different programming skills we can highlight 💡 Python, Docker, Git, C++, JavaScript, Deep Learning, Full stack (Php, Nodejs, React, SQL, NoSQL), R, HTML and 
-CSS 💡.
+⏩ I am always eager to start new projects and delve deeper into the fascinating field of AI.
 
-🤖 I am also one of the co-presidents of the IE Robotics and AI Club. ☄️ We aim to bring the world of AI and robotics closer to the IE University community through the organization of events, workshops, talks and other activities.
-
-⏩ I am always willing to start new projects and discover more about this interesitng field of Computing and AI.
-
-✨ Within my hobbies, I can highlight ✈️ travelling (visited 4 continents and more than 15 countries), 🦾 robotics, and 🏀 basketball.
+✨ My hobbies include ✈️ traveling, 🦾 exploring AI advancements, and 🏀 playing basketball.
