@@ -2,9 +2,8 @@
 
 <p> 📲 Connect with me on  
   <a href="https://www.linkedin.com/in/manuelsanromangarcia/" rel="nofollow noreferrer">
-    <img src="[https://commons.wikimedia.org/wiki/File:LinkedIn_PNG16.png](https://commons.wikimedia.org/wiki/File:LinkedIn_PNG16.png)" alt="linkedin"> LinkedIn.
-  </a> &nbsp; 
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" width="20" height="20"> LinkedIn.
+  </a> 
 </p>
 
 
